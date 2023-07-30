@@ -1,8 +1,17 @@
-/* code here  */
-.redColor{
-
+.App {
+  text-align: center;
+  padding-top: 50px;
 }
 
-.blueColor{
+p {
+  font-size: 30px;
+}
 
+.redColor {
+  color: red;
+}
+
+.blueColor {
+  color: blue;
+  font-style: italic;
 }
